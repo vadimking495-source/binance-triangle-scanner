@@ -1,0 +1,1 @@
+# binance-triangle-scanner
